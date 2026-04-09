@@ -1,0 +1,23 @@
+{
+  "name": "playwight-exercicios",
+  "version": "1.0.0",
+  "description": "Execícios para Criação de Teste Automatizados com o Playwight",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElaineBarboza/playwight-exercicios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ElaineBarboza/playwight-exercicios/issues"
+  },
+  "homepage": "https://github.com/ElaineBarboza/playwight-exercicios#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.5.2"
+  }
+}
